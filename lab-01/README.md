@@ -1,7 +1,7 @@
 # Lab 1: Node.js and Express server
 
-**Student Name:** Joel Prashanth D / [Your Name] • **Registration Number:** REG12345678 • **Section:** CSE - Section A  
-**Course:** Backend Development Fundamentals (Year II Term II) • **Faculty:** Joel Prashanth D
+**Student Name:** PAKA GOPINADH • **Registration Number:** 252U1R1175 • **Section:** CSE - Section A  
+**Course:** Backend Development Fundamentals (Year II Term II) • **Faculty:** Mr Sai Siva Teja Chintakrindi • **Institution:** Aurora University
 
 ---
 

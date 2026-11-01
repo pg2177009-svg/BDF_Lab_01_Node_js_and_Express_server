@@ -1,9 +1,9 @@
 # Backend Development Fundamentals (Year II Term II)
 
-**Student Name:** Joel Prashanth D / [Your Name]  
-**Registration Number:** REG12345678  
-**Faculty:** Joel Prashanth D  
-**Institution:** Aurora  
+**Student Name:** PAKA GOPINADH  
+**Registration Number:** 252U1R1175  
+**Faculty:** Mr Sai Siva Teja Chintakrindi  
+**Institution:** Aurora University  
 
 This repository contains all laboratory exercises for the **Backend Development Fundamentals** course. Each lab has its own dedicated directory with complete source code, tests, documentation, and screenshots.
 

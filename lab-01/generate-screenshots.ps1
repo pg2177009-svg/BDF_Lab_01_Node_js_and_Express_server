@@ -119,11 +119,13 @@ Generate-Mockup -outputPath (Join-Path $screenshotDir "03-express-about.png") `
         "Response Headers: Content-Type: application/json; charset=utf-8",
         "",
         "{",
-        "  ""name"": ""Joel Prashanth D / Student Name"",",
-        "  ""registrationNumber"": ""REG12345678"",",
+        "  ""name"": ""PAKA GOPINADH"",",
+        "  ""registrationNumber"": ""252U1R1175"",",
         "  ""section"": ""CSE - Section A"",",
         "  ""course"": ""Backend Development Fundamentals"",",
-        "  ""term"": ""Year II Term II""",
+        "  ""term"": ""Year II Term II"",",
+        "  ""faculty"": ""Mr Sai Siva Teja Chintakrindi"",",
+        "  ""institution"": ""Aurora University""",
         "}"
     )
 

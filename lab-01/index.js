@@ -19,11 +19,13 @@ app.get('/', (req, res) => {
 // Route: GET /about - JSON with name and section
 app.get('/about', (req, res) => {
   res.status(200).json({
-    name: 'Joel Prashanth D / Student Name',
-    registrationNumber: 'REG12345678',
+    name: 'PAKA GOPINADH',
+    registrationNumber: '252U1R1175',
     section: 'CSE - Section A',
     course: 'Backend Development Fundamentals',
-    term: 'Year II Term II'
+    term: 'Year II Term II',
+    faculty: 'Mr Sai Siva Teja Chintakrindi',
+    institution: 'Aurora University'
   });
 });
 
