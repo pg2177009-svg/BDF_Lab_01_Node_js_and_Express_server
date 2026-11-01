@@ -13,7 +13,7 @@ This repository contains all laboratory exercises for the **Backend Development 
 
 | Lab Folder | Title | Status | Link |
 |---|---|---|---|
-| [`lab-01/`](./lab-01/) | **Lab 1: Node.js and Express Server** | Completed | [View Lab 1 README](./lab-01/README.md) |
+| [`lab-01/`](./lab-01/) | **Lab 1: Node.js and Express Server** | Completed | [README](./lab-01/README.md) • [Live Link](https://bdf-lab-01-node-js-and-express-server.onrender.com) |
 | `lab-02/` | *Lab 2: (Upcoming)* | Planned | - |
 | `lab-03/` | *Lab 3: (Upcoming)* | Planned | - |
 | `lab-04/` | *Lab 4: (Upcoming)* | Planned | - |

@@ -6,7 +6,7 @@
 ---
 
 ## Live Link
-* **Live Deployment URL:** `https://lab-01-express-server.onrender.com` *(or 'Not applicable' if running strictly locally; see [Deployment Notes](#deployment-notes))*
+* **Live Deployment URL:** [https://bdf-lab-01-node-js-and-express-server.onrender.com](https://bdf-lab-01-node-js-and-express-server.onrender.com)
 
 ---
 
